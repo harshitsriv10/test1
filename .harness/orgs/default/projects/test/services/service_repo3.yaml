@@ -1,0 +1,5 @@
+service:
+  name: service_repo3
+  identifier: service_repo3
+  orgIdentifier: default
+  projectIdentifier: test
